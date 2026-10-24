@@ -25,3 +25,6 @@ fun DataApp(
             startDestination = Navigasi.FormulirSaya.name,
 
             
+modifier = Modifier.padding(isiRuang)){
+            composable(route = Navigasi.FormulirSaya.name){
+                
