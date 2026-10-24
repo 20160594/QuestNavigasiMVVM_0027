@@ -41,3 +41,10 @@ FormIsian (
 TampilData(
                 onBackBtnClick = {cancelAndBackToFormulirSaya(navController)}
            
+ )
+        }
+    }
+}}
+private fun cancelAndBackToFormulirSaya(
+    navController: NavHostController
+)
