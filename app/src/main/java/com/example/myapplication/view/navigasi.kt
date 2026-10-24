@@ -33,3 +33,8 @@ FormIsian (
             OnSubmitBtnClick = {
                 navController.navigate(Navigasi.Detail.name)
             
+}
+            )
+        }
+        composable(route = Navigasi.Detail.name){
+            
